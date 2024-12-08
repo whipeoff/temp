@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin_login.php
+Disallow: /admin_requests.php
+
+
+Sitemap: https://localhost/sitemap.xml
